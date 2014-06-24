@@ -1,0 +1,8 @@
+[submodule "source"]
+	path = source
+	url = https://github.com/odoo/odoo.git
+	branch = 7.0
+[submodule "runtime"]
+	path = runtime
+	url = https://github.com/buke/GreenOdoo-Runtime.git
+	branch = win32
